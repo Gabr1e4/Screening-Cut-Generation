@@ -9,7 +9,7 @@ To test the implementation, you can run the script located in `numerical-test/ri
 
 Feel free to modify the script to adapt to your specific use case.
 
-**NOTE**: In `numerical-test/ridge-regression/ridge-test-real.ipynb`, we adopt Windows syntax to read the real dataset. Please adapt accordingly with Mac syntax.
+**NOTE**: In `numerical-test/ridge-regression/ridge-test-real.ipynb`, we adopt Windows syntax to read the real dataset. Please adapt accordingly with your OS syntax.
 
 
 
