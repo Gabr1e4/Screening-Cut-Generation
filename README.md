@@ -2,7 +2,7 @@
 This is the official implementation of the paper: [Screening Cut Generation for Sparse Ridge Regression](https://arxiv.org/abs/2505.01082). The repository provides code to reproduce the results and experiments described in the paper.
 
 ## Package Dependencies
-The code is implemented in Python. The required dependencies are listed in `requirements.txt`.
+The code is implemented in Python. The recommended dependencies are listed in `requirements.txt`.
 
 ## Usage
 To test the implementation, you can run the script located in `numerical-test/ridge-regression`.
