@@ -5,7 +5,7 @@ This is the official implementation of the paper: [Screening Cut Generation for 
 The code is implemented in Python. The required dependencies are listed in `requirements.txt`.
 
 ## Usage
-The example usage of SCG can be found in `numerical-test/ridge-regression/example.ipynb`. To test the implementation on synthetic datasets and real datasets, you can run the script located in `numerical-test/ridge-regression/ridge-test-synthetic.ipynb` and `numerical-test/ridge-regression/ridge-test-real.ipynb`, respectively.
+The folder `numerical-test/ridge-regression` contains all the experiment implementation code. Within the folder, the example usage of SCG can be found in `example.ipynb`. To test the implementation on synthetic datasets and real datasets, you can run the script located in `ridge-test-synthetic.ipynb` and `ridge-test-real.ipynb`, respectively.
 
 Feel free to modify the script to adapt to your specific use case.
 

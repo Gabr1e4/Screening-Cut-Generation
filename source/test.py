@@ -19,7 +19,7 @@ def syn_ins_test(progress_log = False,test_alg = ['SCG'],**kwargs):
     ite_lim = kwargs['ite_lim']
     gap_lim = kwargs['gap_lim']
 
-    # Data SCGeration setting
+    # Data Generation setting
     num = kwargs['num']
     dim = kwargs['dim']
     rho = kwargs['rho']         
@@ -27,7 +27,7 @@ def syn_ins_test(progress_log = False,test_alg = ['SCG'],**kwargs):
     SNR_ = kwargs['SNR']    
     gamma_ = kwargs['gamma_']
 
-    # SCGerate single instance
+    # Generate single instance
     (X,Y,beta_truth) = env.sparse_generation(num = num,
                                   dim = dim,
                                   sparsity=sparsity_,
